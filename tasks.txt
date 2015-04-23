@@ -1,0 +1,47 @@
+more enemies  (faster ones)*
+
+ship selection
+
+Ufo Rotation Speed -* code is in frigate
+
+Different projectiles * (add if possible)
+
+Use invisible game objects as spawning points, musst have at least 16 points
+	- Create Code on Determining this objects position using the screenspacetoworldpoint function
+	- Randomize from the list of the invisible game objects
+
+ship health
+
+GUI
+
+particles
+
+* - done
+
+Refactor code, implement inheritances
+
+create function to check which side is the target on
+
+public void CheckTargetDirection()
+{
+            var relativePoint = transform.InverseTransformPoint(target.transform.position);
+            if (relativePoint.x < 0.0)
+            {
+				//Face Left
+            }
+            else if (relativePoint.x > 0.0)
+            {
+				//FaceRight
+            }
+}
+
+Quaternion Lerp
+
+			Vector3 dir = target.transform.position - this.transform.position;
+            float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
+            transform.rotation = Quaternion.Lerp(this.transform.rotation, Quaternion.AngleAxis(**angle - 90.0f**, Vector3.forward), Time.deltaTime * rotationSpeed * 10.0f);
+			
+			**-** - This is the part where sprite must face.
+				-90f - Front
+				-180f - Left
+				0 - Right

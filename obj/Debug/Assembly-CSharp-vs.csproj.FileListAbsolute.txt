@@ -1,0 +1,33 @@
+C:\Users\Mark\Documents\Unity Projects\Swingship\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Mark\Documents\Unity Projects\Swingship\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Mark\Documents\Unity Projects\Swingship\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Mark\Documents\Unity Projects\Swingship\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Mark\Documents\Unity Projects\Swingship\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Mark\Documents\Unity Projects\Swingship\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Mark\Documents\Unity Projects\Swingship\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Mark\Documents\Unity Projects\Swingship\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Mark\Documents\Unity Projects\Swingship\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\Unity Projects\Swingship\obj\Debug\Assembly-CSharp.dll
+C:\Users\Mark\Documents\Unity Projects\Swingship\obj\Debug\Assembly-CSharp.pdb
+C:\Shared\Swingship\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Shared\Swingship\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Shared\Swingship\Temp\bin\Debug\UnityEditor.dll
+C:\Shared\Swingship\Temp\bin\Debug\UnityEngine.dll
+C:\Shared\Swingship\Temp\bin\Debug\Mono.Cecil.dll
+C:\Shared\Swingship\Temp\bin\Debug\nunit.framework.dll
+C:\Shared\Swingship\Temp\bin\Debug\Unity.DataContract.dll
+C:\Shared\Swingship\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Shared\Swingship\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Shared\Swingship\obj\Debug\Assembly-CSharp.dll
+C:\Shared\Swingship\obj\Debug\Assembly-CSharp.pdb
+C:\Shared\Refactored\Swingship\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Shared\Refactored\Swingship\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Shared\Refactored\Swingship\Temp\bin\Debug\UnityEditor.dll
+C:\Shared\Refactored\Swingship\Temp\bin\Debug\UnityEngine.dll
+C:\Shared\Refactored\Swingship\Temp\bin\Debug\Mono.Cecil.dll
+C:\Shared\Refactored\Swingship\Temp\bin\Debug\nunit.framework.dll
+C:\Shared\Refactored\Swingship\Temp\bin\Debug\Unity.DataContract.dll
+C:\Shared\Refactored\Swingship\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Shared\Refactored\Swingship\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Shared\Refactored\Swingship\obj\Debug\Assembly-CSharp.dll
+C:\Shared\Refactored\Swingship\obj\Debug\Assembly-CSharp.pdb

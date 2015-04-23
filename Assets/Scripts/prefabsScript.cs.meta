@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d31c9d98d8bf128459ff67be87770867
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - asteroidPrefab1: {fileID: 100000, guid: b854df0ad6c118d409ecd71f1cb82e02, type: 2}
+  - asteroidPrefab2: {fileID: 100000, guid: 9dd72b0c18848174f976a5c414ee4570, type: 2}
+  - asteroidPrefab3: {fileID: 100000, guid: ab30350ede7d043459877371f2c3e3ae, type: 2}
+  - asteroidPrefab4: {fileID: 100000, guid: 1a0268f5a1d934a4e89fdfdf0e43ce1a, type: 2}
+  - asteroidPrefab5: {fileID: 100000, guid: 335a31c906eb24a469ee9cc7a05b77cf, type: 2}
+  - asteroidPrefab6: {fileID: 100000, guid: 523c92585305e4849a8cf5b115f20030, type: 2}
+  - asteroidPrefab7: {fileID: 100000, guid: 83c7ca1d84fbc6347ae9abcc9eb372f1, type: 2}
+  - asteroidPrefab8: {fileID: 100000, guid: 1072b01c79b036d4f97a3dc342ca1c17, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
